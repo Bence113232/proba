@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bence\\source\\repos\\Hello\\Hello\\Hello.csproj": {}
+    "D:\\Dokumentumok\\GitRepo\\Hello\\Hello\\Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bence\\source\\repos\\Hello\\Hello\\Hello.csproj": {
+    "D:\\Dokumentumok\\GitRepo\\Hello\\Hello\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bence\\source\\repos\\Hello\\Hello\\Hello.csproj",
+        "projectUniqueName": "D:\\Dokumentumok\\GitRepo\\Hello\\Hello\\Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "C:\\Users\\Bence\\source\\repos\\Hello\\Hello\\Hello.csproj",
+        "projectPath": "D:\\Dokumentumok\\GitRepo\\Hello\\Hello\\Hello.csproj",
         "packagesPath": "C:\\Users\\Bence\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bence\\source\\repos\\Hello\\Hello\\obj\\",
+        "outputPath": "D:\\Dokumentumok\\GitRepo\\Hello\\Hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bence\\AppData\\Roaming\\NuGet\\NuGet.Config",
